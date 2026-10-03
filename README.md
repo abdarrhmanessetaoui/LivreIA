@@ -158,12 +158,4 @@ NODE_ENV=development
 
 Check out the live application here: **[LivreIA on Vercel](https://livreia.vercel.app)**
 
-## 👨‍💻 Author
 
-**Abderrahman**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
